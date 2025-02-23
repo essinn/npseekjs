@@ -1,6 +1,6 @@
 {
   "name": "npseekjs",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "CLI tool to search npm packages by name and description",
   "main": "index.js",
   "type": "module",
