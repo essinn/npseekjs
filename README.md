@@ -1,27 +1,20 @@
-**npseekjs**
+# npseekjs
 
 Want to search for npm packages straight from your IDE? Use npseekjs, a CLI tool to search for npm packages by name and description.
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Advanced Features](#advanced-features)
-- [Expected Output](#expected-output)
 
 ## Installation
 
 ```bash
-npm i npseekjs
+npm i -g npseekjs
 ```
 
-## Usage
+## Usages
 
 ```bash
 npseek "Validation library"
 ```
 
-## Advanced Features
+**Options**
 
 ```bash
 npseek "Validation library" -limit 3

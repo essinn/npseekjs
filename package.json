@@ -8,7 +8,8 @@
     "npseek": "bin/index.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "echo '⚠️  This package is intended to be installed globally. Run `npm install -g npseekjs` to install it globally.'"
   },
   "keywords": [
     "npm",
