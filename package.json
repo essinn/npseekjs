@@ -1,10 +1,10 @@
 {
-  "name": "snpm",
+  "name": "npseekjs",
   "version": "1.0.0",
   "description": "CLI tool to search npm packages by name and description",
   "main": "index.js",
   "bin": {
-    "snpm": "./bin/index.js"
+    "npseek": "bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,7 @@
     "npm",
     "package",
     "cli",
-    "snpm"
+    "npseekjs"
   ],
   "author": "Ehsan",
   "license": "MIT",
